@@ -5,7 +5,7 @@ This project aims to create an AI Operating System that integrates extensive kno
 
 As we approach the era of the technological singularity, we believe it is essential to establish a foundation that enables humans and AI to coexist and thrive together.
 
-    We welcome researchers, engineers, policymakers, and visionaries who share this mission to join us in building the AI Operating System of the future.
+We welcome researchers, engineers, policymakers, and visionaries who share this mission to join us in building the AI Operating System of the future.
 
 AI Operating System – Fundamental Principles
 
